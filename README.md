@@ -10,6 +10,7 @@ AlgerFan | Blog
 
 ### 最新
 
+* [12月初总结与反思](https://www.algerfan.cn/articles/2019/12/03/1575344811185.html)
 * [精选！必备的VSCode插件](https://www.algerfan.cn/articles/2019/11/02/1572675672644.html)
 * [（6）Spring Boot使用docker部署（阿里云镜像服务）](https://www.algerfan.cn/articles/2019/10/23/1571803648224.html)
 * [（17）MyCat 集群——MySQL学习笔记](https://www.algerfan.cn/articles/2019/10/20/1571538925879.html)
@@ -29,7 +30,6 @@ AlgerFan | Blog
 * [9月1日回忆录](https://www.algerfan.cn/articles/2019/09/01/1567301743330.html)
 * [8月24号回忆录](https://www.algerfan.cn/articles/2019/08/24/1566656696558.html)
 * [8月18日回忆录](https://www.algerfan.cn/articles/2019/08/18/1566092708471.html)
-* [8月11号回忆录](https://www.algerfan.cn/articles/2019/08/11/1565575929288.html)
 
 ### 热门
 
